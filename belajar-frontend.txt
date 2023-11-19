@@ -1,0 +1,4 @@
+Belajar Front end
+- konsisten belajar front end tiap minggu
+- membuat platform pengelolaan video
+- membuat forum diskusi
